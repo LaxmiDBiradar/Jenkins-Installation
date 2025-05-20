@@ -11,7 +11,7 @@
 ### 💻 Step 2: Connect Using MobaXterm
 
 1. Open **MobaXterm**.
-2. Connect to your EC2 instance using your `.pem` key file:
+2. Connect to your EC2 instance to terminal
 
    ssh -i path_to_key.pem ec2-user@<your-ec2-public-ip>
   
